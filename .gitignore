@@ -1,7 +1,7 @@
 # Local files
 *.zip
 *.csv
-
+*junk_folder*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
